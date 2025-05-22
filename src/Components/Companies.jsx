@@ -21,98 +21,98 @@ const Companies = () => {
           </div>
           <div className="shadow-lg border border-gray-300 grayscale-100 hover:grayscale-0 transition-all duration-200 rounded-md px-12 py-6 w-60 h-40">
             <img
-              src="public/companies/74e3f6b42f672775f7d5097d0af0f780.png.webp"
+              src="/companies/74e3f6b42f672775f7d5097d0af0f780.png.webp"
               alt=""
               className="w-full object-contain h-full"
             />
           </div>
           <div className="shadow-lg border border-gray-300 grayscale-100 hover:grayscale-0 transition-all duration-200 rounded-md px-12 py-6 w-60 h-40">
             <img
-              src="public/companies/344bb2c378823d95590c3cdedf8308bd-2.png.webp"
+              src="/companies/344bb2c378823d95590c3cdedf8308bd-2.png.webp"
               alt=""
               className="w-full object-contain h-full"
             />
           </div>
           <div className="shadow-lg border border-gray-300 grayscale-100 hover:grayscale-0 transition-all duration-200 rounded-md px-12 py-6 w-60 h-40">
             <img
-              src="public/companies/b31049edbd903af16808215306aaa5ea.png.webp"
+              src="/companies/b31049edbd903af16808215306aaa5ea.png.webp"
               alt=""
               className="w-full object-contain h-full"
             />
           </div>
           <div className="shadow-lg border border-gray-300 grayscale-100 hover:grayscale-0 transition-all duration-200 rounded-md px-12 py-6 w-60 h-40">
             <img
-              src="public/companies/e699409bab49a662dde3cad8cd3ab667.jpg.webp"
+              src="/companies/e699409bab49a662dde3cad8cd3ab667.jpg.webp"
               alt=""
               className="w-full object-contain h-full"
             />
           </div>
           <div className="shadow-lg border border-gray-300 grayscale-100 hover:grayscale-0 transition-all duration-200 rounded-md px-12 py-6 w-60 h-40">
             <img
-              src="public/companies/image-9178.png.webp"
+              src="/companies/image-9178.png.webp"
               alt=""
               className="w-full object-contain h-full"
             />
           </div>
           <div className="shadow-lg border border-gray-300 grayscale-100 hover:grayscale-0 transition-all duration-200 rounded-md px-12 py-6 w-60 h-40">
             <img
-              src="public/companies/image-9180.png.webp"
+              src="/companies/image-9180.png.webp"
               alt=""
               className="w-full object-contain h-full"
             />
           </div>
           <div className="shadow-lg border border-gray-300 grayscale-100 hover:grayscale-0 transition-all duration-200 rounded-md px-12 py-6 w-60 h-40">
             <img
-              src="public/companies/image-9181.png.webp"
+              src="/companies/image-9181.png.webp"
               alt=""
               className="w-full object-contain h-full"
             />
           </div>
           <div className="shadow-lg border border-gray-300 grayscale-100 hover:grayscale-0 transition-all duration-200 rounded-md px-12 py-6 w-60 h-40">
             <img
-              src="public/companies/image-9186.png.webp"
+              src="/companies/image-9186.png.webp"
               alt=""
               className="w-full object-contain h-full"
             />
           </div>
           <div className="shadow-lg border border-gray-300 grayscale-100 hover:grayscale-0 transition-all duration-200 rounded-md px-12 py-6 w-60 h-40">
             <img
-              src="public/companies/image-9187-150x99.png.webp"
+              src="/companies/image-9187-150x99.png.webp"
               alt=""
               className="w-full object-contain h-full"
             />
           </div>
                     <div className="shadow-lg border border-gray-300 grayscale-100 hover:grayscale-0 transition-all duration-200 rounded-md px-12 py-6 w-60 h-40">
             <img
-              src="public/companies/Property-1image-9153.png.webp"
+              src="/companies/Property-1image-9153.png.webp"
               alt=""
               className="w-full object-contain h-full"
             />
           </div>
                     <div className="shadow-lg border border-gray-300 grayscale-100 hover:grayscale-0 transition-all duration-200 rounded-md px-12 py-6 w-60 h-40">
             <img
-              src="public/companies/Property-1image-9154.png.webp"
+              src="/companies/Property-1image-9154.png.webp"
               alt=""
               className="w-full object-contain h-full"
             />
           </div>
                     <div className="shadow-lg border border-gray-300 grayscale-100 hover:grayscale-0 transition-all duration-200 rounded-md px-12 py-6 w-60 h-40">
             <img
-              src="public/companies/Property-1India-Mart-2.png.webp"
+              src="/companies/Property-1India-Mart-2.png.webp"
               alt=""
               className="w-full object-contain h-full"
             />
           </div>
                     <div className="shadow-lg border border-gray-300 grayscale-100 hover:grayscale-0 transition-all duration-200 rounded-md px-12 py-6 w-60 h-40">
             <img
-              src="public/companies/STERIS-Logo-Horizontal-300dpi.png.webp"
+              src="/companies/STERIS-Logo-Horizontal-300dpi.png.webp"
               alt=""
               className="w-full object-contain h-full"
             />
           </div>
                     <div className="shadow-lg border border-gray-300 grayscale-100 hover:grayscale-0 transition-all duration-200 rounded-md px-12 py-6 w-60 h-40 ">
             <img
-              src="public/companies/VAIDIK-EDUSERVICES-PRIVATE-LIMITED_b_cv-01-2.png.webp"
+              src="/companies/VAIDIK-EDUSERVICES-PRIVATE-LIMITED_b_cv-01-2.png.webp"
               alt=""
               className="w-full object-contain h-full"
             />
