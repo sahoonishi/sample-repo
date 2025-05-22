@@ -13,7 +13,7 @@ const Hero = () => {
         <p className="md:leading-16 md:tracking-wide font-light">
           Your Trusted <span className="font-medium">AI Development Company <br /> </span> for pioneering Innovation
         </p>
-        <p className="text-lg md:text-2xl mt-4 font-light">
+        <p className="text-sm md:text-2xl mt-4 font-light">
           We empower businesses to create, state of the art digital products and
           platforms incorporating Artificial Intelligence, LLMs, Machine
           learning & new age technologies.
@@ -45,7 +45,7 @@ const Hero = () => {
             <p className="text-sm md:text-xl text-center font-[300] text-gray-400">Team Members</p>
           </div>
         </div>
-      </div>    gh auth login
+      </div>
     </div>
   );
 };
