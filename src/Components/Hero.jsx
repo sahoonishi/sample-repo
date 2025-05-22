@@ -45,7 +45,7 @@ const Hero = () => {
             <p className="text-sm md:text-xl text-center font-[300] text-gray-400">Team Members</p>
           </div>
         </div>
-      </div>
+      </div>    gh auth login
     </div>
   );
 };
