@@ -21,11 +21,11 @@ const Navbar = () => {
   });
 
   return (
-    <nav ref={ref} id="nav" className="scrolled bg-black md:bg-black text-white flex items-center w-screen box-border justify-between md:justify-start z-10  gap-20 px-3 py-4 md:px-16 md:py-6 fixed top-0">
+    <nav ref={ref} id="nav" className="scrolled bg-black md:bg-black text-white flex items-center w-screen box-border justify-between md:justify-start z-10 gap-6  md:gap-20 px-3 py-4 md:px-16 md:py-6 fixed top-0">
 
 
       <div>
-        <div className="w-full h-[40px] md:h-[50px]">
+        <div className="w-full h-[30px] md:h-[50px]">
           <img src="/cropped-log-w.png" alt="" className=" object-contain h-full w-full" />
         </div>
         </div>
