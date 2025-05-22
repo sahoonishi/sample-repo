@@ -2,46 +2,50 @@ import React from "react";
 
 const Products = () => {
   return (
-    <div className="text-black h-auto mb-20 w-screen bg-white px-12 py-32 flex gap-6 flex-col items-center">
-      <div className="text-black text-5xl mb-20 flex items-center gap-6 ">
-        <div className="border-l-4  h-[45px] w-[9px] "></div>
-        Our Unique AI products for Real-World Challenges
+    <div className="text-black h-auto mb-20 w-full bg-white px-4 sm:px-6 md:px-12 py-16 sm:py-24 flex flex-col gap-10 items-center">
+      <div className="text-2xl sm:text-4xl md:text-5xl text-center sm:text-left mb-10 flex flex-col sm:flex-row items-center sm:items-start gap-4 sm:gap-6">
+        <div className="border-l-4 h-10 w-[6px] bg-gradient-to-b from-[#FF9006] via-[#E8007D] to-[#8F00FE]" />
+        <p>Our Unique AI Products for Real-World Challenges</p>
       </div>
-      <div className="flex justify-evenly items-center">
-        <div className="flex flex-col gap-4 items-start">
-          <div className="w-[20%]">
-            <img src="/Xcelight_black.webp" alt="" className="w-full h-full object-cover" />
-          </div>
-          <h1 className="text-2xl">AI Agent</h1>
-          <ul className="mt-6">
-            <li className="text-xl items-start gap-3 flex">
-              <div className="w-[2%] mt-2 "><img src="/Vector2.webp" alt="" className="h-full w-full object-contain" /></div>
-              <p className=""> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus,
-              reiciendis.</p>
-              
-            </li>
-            <li className="text-xl items-start gap-3 flex">
-              <div className="w-[2%] mt-2 "><img src="/Vector2.webp" alt="" className="h-full w-full object-contain" /></div>
-              <p className=""> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus,
-              reiciendis.</p>
-              
-            </li>
-            <li className="text-xl items-start gap-3 flex">
-              <div className="w-[2%] mt-2 "><img src="/Vector2.webp" alt="" className="h-full w-full object-contain" /></div>
-              <p className=""> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus,
-              reiciendis.</p>
-              
-            </li>
-          </ul>
 
-          <button className="p-3 border border-black rounded-md" >Explore Excelight</button>
+      <div className="flex flex-col lg:flex-row justify-center items-center lg:items-start gap-12 w-full max-w-7xl">
+        {/* Left Content */}
+        <div className="flex flex-col gap-6 items-start w-full lg:w-1/2 px-2 sm:px-4">
+          <div className="w-24 sm:w-32">
+            <img
+              src="/Xcelight_black.webp"
+              alt="Xcelight logo"
+              className="w-full h-full object-contain"
+            />
+          </div>
+          <h2 className="text-xl sm:text-2xl font-semibold">AI Agent</h2>
+          <ul className="flex flex-col gap-4 mt-4">
+            {Array(3).fill().map((_, idx) => (
+              <li key={idx} className="flex items-start gap-3 text-base sm:text-lg">
+                <div className="w-5 mt-1">
+                  <img
+                    src="/Vector2.webp"
+                    alt="Bullet point"
+                    className="h-full w-full object-contain"
+                  />
+                </div>
+                <p>
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus, reiciendis.
+                </p>
+              </li>
+            ))}
+          </ul>
+          <button className="mt-4 px-4 py-2 border border-black rounded-md text-sm sm:text-base">
+            Explore Excelight
+          </button>
         </div>
 
-        <div className="h-full w-[40%] hover:scale-90 transition-all duration-300">
+        {/* Right Image */}
+        <div className="w-full lg:w-1/2 max-w-md hover:scale-95 transition-transform duration-300 px-4 sm:px-0">
           <img
             src="/Frame-1000004792.webp"
-            alt=""
-            className="object-cover h-full w-full"
+            alt="Product visual"
+            className="object-cover w-full h-full rounded-md"
           />
         </div>
       </div>

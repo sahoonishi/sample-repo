@@ -9,7 +9,7 @@ const Hero = () => {
       <img className="object-cover object-top h-full w-full" src="/BG.webp" alt="" />
       </div>
       
-      <div className="absolute max-w-[80%] md:max-w-[65%] top-52 left-6 md:top-70 md:left-40 text-white text-3xl md:text-6xl">
+      <div className="absolute max-w-[80%] md:max-w-[65%] top-52 left-6 md:top-52 md:left-40 text-white text-3xl md:text-5xl">
         <p className="md:leading-16 md:tracking-wide font-light">
           Your Trusted <span className="font-medium">AI Development Company <br /> </span> for pioneering Innovation
         </p>
@@ -23,8 +23,8 @@ const Hero = () => {
         </button>
       </div>
       <div className="absolute bottom-0 w-full  text-white">
-        <div className="bg-black/45 flex items-start py-1 justify-evenly text-2xl md:text-4xl px-6">
-          <div className=" flex gap-2 flex-col max-w-[30%]  items-center">
+        <div className="bg-black/45 flex items-start py-1 justify-evenly text-xl lg:text-2xl xl:text-3xl px-6">
+          <div className=" flex gap-1 flex-col max-w-[30%]  items-center">
             <img src="https://xcelore.com/wp-content/uploads/2025/01/icon.png.webp" alt="" className="size-12" />
             <p className="font-[700]">15+</p>
             <p className="text-sm md:text-xl font-[300] text-center text-gray-400">Global Clients</p>

@@ -54,7 +54,9 @@ const Home = () => {
           <div className="md:w-[50%] w-[99%] tracking-widest flex flex-col items-center gap-8">
             <div className="md:text-6xl text-2xl font-[200]">
               We are a dynamic team of <br />{" "}
-              <span className="md:text-7xl text-2xl font-medium ">Tech Innovators</span>
+              <span className="md:text-7xl text-2xl font-medium ">
+                Tech Innovators
+              </span>
             </div>
             <img
               src="https://xcelore.com/wp-content/uploads/2025/01/Vector-3.png.webp"
@@ -67,6 +69,7 @@ const Home = () => {
             </p>
           </div>
         </div>
+
         <div className="h-[80vh] flex justify-end w-fit ">
           <img
             src="/Untitled-2.webp"
@@ -80,7 +83,7 @@ const Home = () => {
       <Industries />
       <Companies />
       {/* <Techs/> */}
-      <Footer/>
+      <Footer />
     </div>
   );
 };
