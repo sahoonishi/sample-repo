@@ -13,43 +13,43 @@ const industries = [
   },
   {
     title: 'SaaS',
-    icon: 'public/slider/Group-1000001858.png.webp',
+    icon: '/slider/Group-1000001858.png.webp',
     description: 'Boost your SaaS platform with AI solutions for predictive analytics, automation, and personalized experiences, ensuring higher engagement, reduced churn, and seamless scalability.',
     highlight: true,
   },
   {
     title: 'Retail & E-Commerce',
-    icon: 'public/slider/Group-1000001859.png (1).webp',
+    icon: '/slider/Group-1000001859.png (1).webp',
     description: 'AI-enhanced personalisation, optimised pricing, and streamlined inventory management. We help businesses adapt quickly to market changes and create better customer experiences.',
   },
   {
     title: 'Retail & E-Commerce',
-    icon: 'public/slider/Group-1000001859.png.webp',
+    icon: '/slider/Group-1000001859.png.webp',
     description: 'AI-enhanced personalisation, optimised pricing, and streamlined inventory management. We help businesses adapt quickly to market changes and create better customer experiences.',
   },
   {
     title: 'Retail & E-Commerce',
-    icon: 'public/slider/Group-1000001862.png.webp',
+    icon: '/slider/Group-1000001862.png.webp',
     description: 'AI-enhanced personalisation, optimised pricing, and streamlined inventory management. We help businesses adapt quickly to market changes and create better customer experiences.',
   },
   {
     title: 'Retail & E-Commerce',
-    icon: 'public/slider/Group-1000001864.png.webp',
+    icon: '/slider/Group-1000001864.png.webp',
     description: 'AI-enhanced personalisation, optimised pricing, and streamlined inventory management. We help businesses adapt quickly to market changes and create better customer experiences.',
   },
   {
     title: 'Retail & E-Commerce',
-    icon: 'public/slider/Group-1000001866.png.webp',
+    icon: '/slider/Group-1000001866.png.webp',
     description: 'AI-enhanced personalisation, optimised pricing, and streamlined inventory management. We help businesses adapt quickly to market changes and create better customer experiences.',
   },
   {
     title: 'Retail & E-Commerce',
-    icon: 'public/slider/Group-1000001868.png.webp',
+    icon: '/slider/Group-1000001868.png.webp',
     description: 'AI-enhanced personalisation, optimised pricing, and streamlined inventory management. We help businesses adapt quickly to market changes and create better customer experiences.',
   },
   {
     title: 'Retail & E-Commerce',
-    icon: 'public/slider/Group-1000001871.png.webp',
+    icon: '/slider/Group-1000001871.png.webp',
     description: 'AI-enhanced personalisation, optimised pricing, and streamlined inventory management. We help businesses adapt quickly to market changes and create better customer experiences.',
   },
 ];

@@ -15,19 +15,19 @@ const Products = () => {
           <h1 className="text-2xl">AI Agent</h1>
           <ul className="mt-6">
             <li className="text-xl items-start gap-3 flex">
-              <div className="w-[2%] mt-2 "><img src="public/Vector2.webp" alt="" className="h-full w-full object-contain" /></div>
+              <div className="w-[2%] mt-2 "><img src="/Vector2.webp" alt="" className="h-full w-full object-contain" /></div>
               <p className=""> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus,
               reiciendis.</p>
               
             </li>
             <li className="text-xl items-start gap-3 flex">
-              <div className="w-[2%] mt-2 "><img src="public/Vector2.webp" alt="" className="h-full w-full object-contain" /></div>
+              <div className="w-[2%] mt-2 "><img src="/Vector2.webp" alt="" className="h-full w-full object-contain" /></div>
               <p className=""> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus,
               reiciendis.</p>
               
             </li>
             <li className="text-xl items-start gap-3 flex">
-              <div className="w-[2%] mt-2 "><img src="public/Vector2.webp" alt="" className="h-full w-full object-contain" /></div>
+              <div className="w-[2%] mt-2 "><img src="/Vector2.webp" alt="" className="h-full w-full object-contain" /></div>
               <p className=""> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus,
               reiciendis.</p>
               
