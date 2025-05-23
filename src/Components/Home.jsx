@@ -82,7 +82,7 @@ const Home = () => {
       <Products />
       <Industries />
       <Companies />
-      {/* <Techs/> */}
+      <Techs/>
       <Footer />
     </div>
   );

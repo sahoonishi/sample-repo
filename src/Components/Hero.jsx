@@ -31,7 +31,7 @@ const Hero = () => {
           platforms incorporating Artificial Intelligence, LLMs, Machine
           learning & new age technologies.
         </p>
-        <button className="mybutton text-lg mt-6 sm:text-base xs:text-sm xs:mt-4">
+        <button className="bg-gradient-to-r from-[#FF9006] via-[#E8007D] to-[#8F00FE] inline-block bg-clip-text text-lg mt-6 sm:text-base xs:text-sm xs:mt-4">
           Get in touch
         </button>
       </div>
